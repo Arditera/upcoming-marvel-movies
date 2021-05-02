@@ -80,3 +80,6 @@ const movies = [
 ]
 
 export default movies
+
+/*Request : Saat filmnya sudah rilis dapat menampilkan jumlah eps nya dan sudah berapa eps yang rilis,
+Menampilkan waktu mundur penayangan per eps nya, jika bisa ada link download per eps dan batch jika sudah tamat*/
